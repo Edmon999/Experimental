@@ -1,0 +1,36 @@
+.mainForm{
+    position: absolute;
+    justify-content: center;
+    text-align: center;
+    margin-left: 25vw;
+    width: 50%;
+    border: 5px solid linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+    border-radius: 0.5rem;
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+    box-shadow: 0 0 50px rgba(253, 2, 157, 0.8);
+}
+.mainForm p {
+    color: #fff;
+    font-size: 24px;
+}
+.mainForm input {
+    width: 70%;
+    padding: 10px;
+    margin: 3px;
+    border: 0;
+    border-radius: 0.5rem;
+}
+input:focus {
+    outline: none;
+}
+.mainForm button {
+    margin: 5px;
+    padding:10px;
+    border:none;
+    background-color:#3F51B5;
+    color:#fff;
+    font-size: 18px;
+    border-radius:1.5rem;
+    width: 30%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}

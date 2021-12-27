@@ -1,0 +1,15 @@
+.nav {
+    justify-content: flex-end;
+    display: flex;
+}
+.navButton {
+    padding:10px;
+    border:none;
+    background-color:#3F51B5;
+    color:#fff;
+    font-size: 18px;
+    border-radius:1rem;
+    width: 10%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin: 10px;
+}

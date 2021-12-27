@@ -1,0 +1,9 @@
+.imageInfoWraper{
+    background-color: blanchedalmond;
+    width: 30%;
+    height: 40vh;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
